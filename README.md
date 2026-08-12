@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhil-285/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Nikhil-285/Leetcode/tree/master/0075-sort-colors) |
 | [1512-number-of-good-pairs](https://github.com/Nikhil-285/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/Nikhil-285/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Nikhil-285/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3452-sum-of-good-numbers](https://github.com/Nikhil-285/Leetcode/tree/master/3452-sum-of-good-numbers) |
 ## Two Pointers
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nikhil-285/Leetcode/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Nikhil-285/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
