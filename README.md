@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nikhil-285/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhil-285/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Nikhil-285/Leetcode/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/Nikhil-285/Leetcode/tree/master/0162-find-peak-element) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nikhil-285/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhil-285/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhil-285/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -88,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Nikhil-285/Leetcode/tree/master/0162-find-peak-element) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nikhil-285/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
