@@ -139,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhil-285/Leetcode/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Nikhil-285/Leetcode/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Nikhil-285/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
