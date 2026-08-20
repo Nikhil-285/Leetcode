@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Nikhil-285/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Nikhil-285/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Nikhil-285/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Nikhil-285/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhil-285/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Nikhil-285/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nikhil-285/Leetcode/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/Nikhil-285/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Nikhil-285/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nikhil-285/Leetcode/tree/master/0037-sudoku-solver) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Nikhil-285/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
