@@ -43,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Nikhil-285/Leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Nikhil-285/Leetcode/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/Nikhil-285/Leetcode/tree/master/0709-to-lower-case) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikhil-285/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Nikhil-285/Leetcode/tree/master/0037-sudoku-solver) |
+| [0242-valid-anagram](https://github.com/Nikhil-285/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nikhil-285/Leetcode/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nikhil-285/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhil-285/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nikhil-285/Leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Nikhil-285/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nikhil-285/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Nikhil-285/Leetcode/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nikhil-285/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
