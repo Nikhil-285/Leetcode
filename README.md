@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Nikhil-285/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nikhil-285/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Nikhil-285/Leetcode/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhil-285/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhil-285/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Nikhil-285/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Array
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Nikhil-285/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Nikhil-285/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Nikhil-285/Leetcode/tree/master/0912-sort-an-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhil-285/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nikhil-285/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhil-285/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhil-285/Leetcode/tree/master/1480-running-sum-of-1d-array) |
