@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Nikhil-285/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nikhil-285/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Nikhil-285/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Nikhil-285/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nikhil-285/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Nikhil-285/Leetcode/tree/master/0268-missing-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Nikhil-285/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Nikhil-285/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Nikhil-285/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Nikhil-285/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Nikhil-285/Leetcode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nikhil-285/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Nikhil-285/Leetcode/tree/master/0136-single-number) |
