@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Nikhil-285/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Nikhil-285/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Nikhil-285/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Nikhil-285/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Nikhil-285/Leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Nikhil-285/Leetcode/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nikhil-285/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nikhil-285/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nikhil-285/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nikhil-285/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Nikhil-285/Leetcode/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nikhil-285/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhil-285/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Nikhil-285/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nikhil-285/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Nikhil-285/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nikhil-285/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Nikhil-285/Leetcode/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhil-285/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nikhil-285/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nikhil-285/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nikhil-285/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Nikhil-285/Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Nikhil-285/Leetcode/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nikhil-285/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nikhil-285/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
